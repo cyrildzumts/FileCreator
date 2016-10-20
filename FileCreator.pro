@@ -9,4 +9,5 @@ SOURCES += main.cpp \
 HEADERS += \
     filecreator.h \
     inputargreader.h \
-    utils.h
+    utils.h \
+    queue.h
